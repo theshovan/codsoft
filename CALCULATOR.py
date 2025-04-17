@@ -1,5 +1,11 @@
-/*gygy
-*/
+"""simple calculator
+addition
+subtraction
+multiplication
+division
+"""
+
+
 
 def add(x, y):
     return x + y
