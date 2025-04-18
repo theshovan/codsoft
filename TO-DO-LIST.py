@@ -1,3 +1,14 @@
+"""Create a To-Do-List using python
+Add some features-
+1.Add task,
+2.View task,
+3.Update task,
+4.Delete task,
+5.Mark task as done,
+6.Exit.
+"""
+
+
 import json
 
 # File to store tasks
