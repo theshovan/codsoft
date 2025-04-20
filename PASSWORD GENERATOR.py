@@ -1,3 +1,7 @@
+"""Generate random password
+"""
+
+
 import random
 import string
 
